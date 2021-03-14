@@ -12,6 +12,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=la-colinares&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/rajk3770/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=la-colinares&layout=compact&theme=tokyonight)](https://github.com/rajk3770/github-readme-stats)
 
+*PS: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code in github*
+
 ### Programming Languages
 <p>
     <img src="https://img.shields.io/badge/Kotlin%20-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
