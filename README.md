@@ -1,7 +1,6 @@
 ## Hey 👋, Welcome to my Github Profile
 [![Gmail Badge](https://img.shields.io/badge/-dev.lacolinares@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lacolinares@gmail.com)](mailto:estopace.ma@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-lacolinares-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lacolinares/)](https://www.linkedin.com/in/lacolinares/) 
-[![Github Badge](https://img.shields.io/badge/-lacolinares-grey?style=flat&logo=github&logoColor=white&link=https://github.com/la-colinares/)](https://www.github.com/la-colinares/) 
+[![Linkedin Badge](https://img.shields.io/badge/-lacolinares-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lacolinares/)](https://www.linkedin.com/in/lacolinares/)
 <p align='left'>
   I'm a graduate of Bachelor of Science in Information Technology. I am currently working as Android Developer and focusing more on Mobile App Development.
 </p>
